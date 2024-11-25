@@ -1,4 +1,4 @@
-//Write a Java program to check whether a given numberis even or not
+//Write a Java program to check whether a given number is even or not
 
 import java.util.Scanner;
 
