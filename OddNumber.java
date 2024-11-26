@@ -1,3 +1,6 @@
+// Write a Java program to check whether given number is odd or not?
+
+
 import java.util.Scanner;
 
 public class OddNumber
@@ -8,7 +11,7 @@ public class OddNumber
             Scanner scan = new Scanner(System.in);
             System.out.println("Enter any Number: ");
             int num = scan.nextInt();
-            if(num%2=0)
+            if(num%2!=0)
             {
             	System.out.println(num+" is an odd Number");
             }
