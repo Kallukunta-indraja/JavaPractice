@@ -1,7 +1,7 @@
 //Write a java program to toggle characters of given string?
 import java.util.Scanner;
 
-public class UppercaseAndLowercase 
+public class TogglingOfCharacters 
 {
 
 	public static void main(String[] args) 
