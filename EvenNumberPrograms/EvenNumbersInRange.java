@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class EvenNumber {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the starting number: ");
 		int s = sc.nextInt();
