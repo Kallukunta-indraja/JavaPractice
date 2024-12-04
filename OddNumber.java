@@ -19,6 +19,8 @@ public class OddNumber
             {
             	System.out.println(num+"  is not an odd Number");
             }
+	    sc.close();	
+
             
 		
 
