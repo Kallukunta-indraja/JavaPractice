@@ -23,7 +23,7 @@ public class CountOfDigits
 			 }
 		}
 		System.out.println("The total count of "+n+" is "+count);
-
+		sc.close();
 	}
 
 }
