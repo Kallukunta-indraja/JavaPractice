@@ -14,9 +14,9 @@ public class RangeOfArmstrong
 		{
 			int original = number;
 			String s = Integer.toString(number);
-		    int len = s.length();
-		    int temp =number;
-		    int result=0;
+		        int len = s.length();
+		        int temp =number;
+		        int result=0;
 			while(temp>0) 
 			{
 				int digit = temp%10;
@@ -30,5 +30,4 @@ public class RangeOfArmstrong
 		}
 		sc.close();
 	}
-
 }
